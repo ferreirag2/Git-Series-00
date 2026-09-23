@@ -15,3 +15,12 @@ Ce dépôt sert à apprendre par la pratique les bases de Git et GitHub.J'ai un 
 
 ## Image locale
 ![Université de Montpellier](image/um.png)
+
+## Résumé
+- Un dépôt (repository) est un dossier de projet suivi par Git, avec une copie sur GitHub et une copie sur mon ordi.
+- Une branche permet de travailler sans toucher à la version principale (main).
+- Un commit enregistre mes modifications avec un message, un push les envoie sur GitHub.
+- J'ai utilisé GitHub Desktop pour créer la branche, commit et push, et VSCode pour écrire le README.
+- J'ai aussi appris à ajouter des images en Markdown, en ligne et en local.
+
+J'ai mis environ 1h30 à faire ce travail.
