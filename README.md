@@ -12,3 +12,6 @@ Ce dépôt sert à apprendre par la pratique les bases de Git et GitHub.J'ai un 
 - Ce que je veux faire plus tard n'a rien à voir avec du code.
 - Je fais un master en numérique pour la santé, donc je n'ai pas le choix.
 - l'objectif est d'être à l'aise avec ces trois outils avant la fin de l'année.
+
+## Image locale
+![Université de Montpellier](images/um.png)
